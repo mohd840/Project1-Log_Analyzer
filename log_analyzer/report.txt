@@ -1,0 +1,11 @@
+Security Analysis Report
+========================
+
+Total Failed Logins: 2
+
+Failed Logins By IP:
+192.168.1.10 -> 1
+10.0.0.5 -> 1
+
+Top Attacker: 192.168.1.10
+Failed Attempts: 1
